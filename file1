@@ -1,7 +1,5 @@
 this is a testing file for git
 
-<<<<<<< HEAD
 adding this line in branch Master
-=======
 this line was added in testing-new-files branch
->>>>>>> testing-new-files
+
